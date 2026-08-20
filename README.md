@@ -113,15 +113,12 @@ fun_fact: "I let AI pair-program with me, but the architecture is always mine."
 
 I'm always open to collaborating on **AI-powered products**, **frontend builds**, or **full-stack MERN projects**.
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-iamsakthi.online-FFFFFF?style=for-the-badge&logoColor=black&labelColor=000000)](https://iamsakthi.online)
+[![Portfolio](https://img.shields.io/badge/_Portfolio-iamsakthi.online-FFFFFF?style=for-the-badge&logoColor=black&labelColor=000000)](https://iamsakthi.online)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=000000)](https://www.linkedin.com/in/rsakthimurugesan/)
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=000000&style=for-the-badge&label=PROFILE+VIEWS" />
-
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer" width="100%"/>
 
 <br/>
