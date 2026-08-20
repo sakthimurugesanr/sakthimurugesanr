@@ -68,7 +68,7 @@ I'm always open to collaborating on **AI-powered products**, **frontend builds**
 
 <div align="center">
 
-<img src="./assets/name-banner.svg" alt="Sakthi Murugesan" width="100%"/>
+<img src="./name-banner.svg" alt="Sakthi Murugesan" width="100%"/>
 
 <br/>
 
