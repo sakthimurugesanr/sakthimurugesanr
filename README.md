@@ -1,7 +1,7 @@
 <div align="center">
 
 
-# $\color{#00FF41}{\mathtt{SAKTHI\ MURUGESAN}}$
+# ${\mathtt{ SAKTHI\ MURUGESAN}}$
 
 <h3>Frontend Developer | Full-Stack Developer | AI Enthusiast</h3>
 
@@ -9,7 +9,9 @@
 
 <p><strong>Think. Build. Improve. Repeat.</strong></p>
 
-<a href="https://iamsakthi.online"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit%20Website-111111?style=for-the-badge&logo=googlechrome&logoColor=00FF41&labelColor=111111" /></a>
+<a href="https://iamsakthi.online">
+  <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=00FF41" />
+</a>
 <a href="https://www.linkedin.com/in/rsakthimurugesan/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:sakthicareer2001@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
@@ -49,31 +51,24 @@ const sakthi = {
 };
 ```
 
+
 ## 02 / TECH_STACK
 
 <div align="center">
 
-<p><strong>Frontend</strong></p>
-
-<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-
-<p><strong>Backend</strong></p>
-
-<img alt="Express.js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
-
-<p><strong>Databases</strong></p>
-
-<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-
-<p><strong>AI</strong></p>
-
-<img alt="RAG" src="https://img.shields.io/badge/RAG-Retrieval--Augmented%20Generation-008F39?style=for-the-badge&logoColor=white" />
+<p align="center">
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img alt="RAG" src="https://img.shields.io/badge/RAG-008F39?style=for-the-badge&logoColor=white" />
+</p>
 
 </div>
+
 
 ## 03 / CURRENT_FOCUS
 
