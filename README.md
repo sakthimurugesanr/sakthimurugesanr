@@ -1,25 +1,4 @@
-<div align="center">
-
-
-# ${\mathtt{ SAKTHI\ MURUGESAN}}$
-
-<h3>Frontend Developer | Full-Stack Developer | AI Enthusiast</h3>
-
-<p><em>Designing interfaces. Building solutions. Exploring AI.</em></p>
-
-<p><strong>Think. Build. Improve. Repeat.</strong></p>
-
-<a href="https://iamsakthi.online">
-  <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=00FF41" />
-</a>
-<a href="https://www.linkedin.com/in/rsakthimurugesan/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:sakthicareer2001@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-</div>
-
----
-
-## 01 / ABOUT_ME
+## ABOUT_ME
 
 *Developer profile initialized. Welcome to my workspace.*
 
@@ -52,7 +31,7 @@ const sakthi = {
 ```
 
 
-## 02 / TECH_STACK
+##  TECH_STACK
 
 <div align="center">
 
@@ -70,7 +49,7 @@ const sakthi = {
 </div>
 
 
-## 03 / CURRENT_FOCUS
+##  CURRENT_FOCUS
 
 ```javascript
 const now = {
@@ -89,7 +68,7 @@ const now = {
 };
 ```
 
-## 04 / CONSOLE_OUTPUT
+##  CONSOLE_OUTPUT
 
 ```javascript
 console.log("sakthi.introduce()");
