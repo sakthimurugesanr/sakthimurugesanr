@@ -68,18 +68,6 @@ const now = {
 };
 ```
 
-##  CONSOLE_OUTPUT
-
-```javascript
-console.log("sakthi.introduce()");
-// I build practical products with frontend, backend and AI.
-
-console.log("sakthi.getMindset()");
-// Stay curious. Write clean code. Solve real problems.
-
-console.log("sakthi.status");
-// Always learning, always building.
-```
 
 ---
 
